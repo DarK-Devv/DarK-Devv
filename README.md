@@ -2,9 +2,8 @@
 I'm Veeti (DarK-Devs), an IT student and software developer from Finland. 
 I specialize in Full Stack Web Development and Video Editing. 
 I'm self-employed Web Developer and Video Editor.
-
-I N F O R M A T I O N   T E C H N O L O G Y  S T U D E N T
-M A J O R I N G I N  S O F T W A R E  E N G I N EE R I N G
+IT-Student
+Majoring Software Engineering
 <!--
 **DarK-Devv/DarK-Devv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
