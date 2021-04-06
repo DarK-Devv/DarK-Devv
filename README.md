@@ -10,4 +10,4 @@ I am a strong team player, but I am also able to work independently. I have work
 
 🌎 Website: [Darkdevv.com](https://Darkdevv.com)  
 🐦 Twitter: [@darkdevs](https://twitter.com/darkdevs)  
-💼 LinkedIn: [Veeti Pere](https://www.linkedin.com/in/Veeti Pere/)
+💼 LinkedIn: [Veeti Pere](https://www.linkedin.com/in/veeti-pere-948067180/)
