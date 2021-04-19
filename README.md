@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Veeti (DarK-Devs), I am goal oriented and quickly learning ICT engineering student, who is not afraid of setbacks and challenges. I would definitely like to be involved in implementing new modern solutions.
+I'm Veeti (DarK-Devs), I am goal oriented and quickly learning ICT engineering student, who is not afraid of setbacks and challenges. I would like to create new modern solutions.
 
 I'm 20-year-old second-year ICT-engineering student majoring in Software Engineering. I am studying at Metropolia University of Applied Sciences.
 
