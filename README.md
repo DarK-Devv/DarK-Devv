@@ -1,11 +1,11 @@
 ### Hi There 👋
-I'm Veeti (DarK-Devs), I am goal oriented and quickly learning ICT engineering student, who is not afraid of setbacks and challenges. I would like to create new modern solutions.
+I am Veeti, also known as DarK-Devs, a driven and swiftly adapting student of ICT engineering, who embraces challenges and setbacks with a positive attitude. My ambition is to develop innovative and contemporary solutions.
 
-I'm 22-year-old second-year ICT-engineering student majoring in Software Engineering. I am studying at Metropolia University of Applied Sciences.
+At 22 years old, I am in my second year of ICT engineering studies, with a focus on Software Engineering, at Metropolia University of Applied Sciences.
 
-I have gained work experience alongside my studies, mainly through summer jobs. My work experience in them has focused mainly on web development and video editing. In my spare time, I work as a young entrepreneur and make marketing videos and websites tailored to the client’s order.
+My work experience has been enriched through various jobs alongside my studies, primarily concentrating on web development and video editing. Outside of my academic commitments, I engage in entrepreneurship, creating custom marketing videos and websites as per client requirements.
 
-I am a strong teamplayer, but I am also able to work independently. I have worked as a Scrum Master. That is a natural way of working for me. I am a quick and eager to learn new things. I have a good command of the programs used at work. By nature I am calm and cooperative. As an employee, I am solution-oriented and reliable.
+My strengths include being an effective team player as well as possessing the capability to work autonomously. My experience as a Scrum Master has honed my natural inclination towards collaborative work. I am quick to learn and enthusiastic about acquiring new skills. I am proficient in the software tools required for my professional endeavors. My demeanor is calm and cooperative, and as an employee, I am committed to finding solutions and maintaining reliability.
 
 
 🌎 Website: [Darkdevv.com](https://Darkdevv.com)  
