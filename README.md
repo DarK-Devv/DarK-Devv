@@ -1,7 +1,7 @@
 ### Hi There 👋
 I'm Veeti (DarK-Devs), I am goal oriented and quickly learning ICT engineering student, who is not afraid of setbacks and challenges. I would like to create new modern solutions.
 
-I'm 21-year-old second-year ICT-engineering student majoring in Software Engineering. I am studying at Metropolia University of Applied Sciences.
+I'm 22-year-old second-year ICT-engineering student majoring in Software Engineering. I am studying at Metropolia University of Applied Sciences.
 
 I have gained work experience alongside my studies, mainly through summer jobs. My work experience in them has focused mainly on web development and video editing. In my spare time, I work as a young entrepreneur and make marketing videos and websites tailored to the client’s order.
 
