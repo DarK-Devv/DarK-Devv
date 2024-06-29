@@ -1,7 +1,7 @@
 ### Hi There 👋
 I am Veeti, who is also known in the digital world as DarK-Devs. I am an ambitious and adaptable ICT engineering student, deeply committed to confronting challenges and overcoming obstacles with an unwaveringly positive mindset. My primary goal is to innovate and forge solutions that are not only effective but also align with modern technological advancements.
 
-Currently, at the age of 22, I find myself in the pivotal final year of my ICT engineering studies at Metropolia University of Applied Sciences. My academic journey is specialized in Software Engineering, a field where I am passionately honing my skills and knowledge.
+Currently, at the age of 23, I find myself in the pivotal final year of my ICT engineering studies at Metropolia University of Applied Sciences. My academic journey is specialized in Software Engineering, a field where I am passionately honing my skills and knowledge.
 
 Alongside my academic pursuits, I have accumulated a wealth of work experience. This experience spans a variety of roles that have significantly contributed to my professional development, with a particular focus on web development and video editing. These roles have not only complemented my studies but have also provided me with practical, hands-on experience in the tech industry.
 
