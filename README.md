@@ -15,7 +15,8 @@ Additionally, I’m exploring the world of crypto trading, learning the ins and 
 I'm a team player who also thrives in independent projects. My experience as a Scrum Master aligns with my organized, cooperative, and results-oriented mindset. Known for my calm and solution-driven approach, I bring reliability, adaptability, and continuous learning to every team I’m part of.
 
 🔍 What Drives Me?
-I’m always looking to push my skills further, tackle new challenges, and bridge the gap between technology and business. If you're looking for a proactive, tech-savvy professional with a keen eye for innovation, let’s connect! 🚀
+I’m always looking to push my skills further, tackle new challenges, and bridge the gap between technology and business.
+
 🌎 Website: [Darkdevv.com](https://Darkdevv.com)  
 🐦 Twitter: [@darkdevs](https://twitter.com/darkdevs)  
 💼 LinkedIn: [Veeti Pere](https://www.linkedin.com/in/veeti-pere-948067180/)
