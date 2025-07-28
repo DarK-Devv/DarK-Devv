@@ -24,6 +24,6 @@ Whether leading as a Scrum Master or working independently, I bring a calm, coop
 
 Continuous learning, challenging projects, and connecting technology with real-world impact. I’m here to push boundaries, solve problems, and make digital life easier for everyone.
 
-🌎 Website: [Darkdevv.com](https://Darkdevv.com)  
+🌎 Website: [Fhatal.com](https://Fhatal.com)  
 🐦 Twitter: [@darkdevs](https://twitter.com/darkdevs)  
 💼 LinkedIn: [Veeti Pere](https://www.linkedin.com/in/veeti-pere-948067180/)
